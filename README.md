@@ -112,10 +112,10 @@
 cd ~/.claude/skills
 
 # 克隆仓库
-git clone https://github.com/Sunnyeung369/ai-agent-team.git
+     git clone https://github.com/Sunnyeung369/human-first-agent-writing.git
 
 # 验证安装
-ls ai-agent-team/SKILL.md  # 应该显示文件存在
+     ls human-first-agent-writing/SKILL.md  # 应该显示文件存在
 ```
 
 </details>
@@ -126,7 +126,7 @@ ls ai-agent-team/SKILL.md  # 应该显示文件存在
 1. 访问 [Releases](https://github.com/Sunnyeung369/ai-agent-team/releases) 页面
 2. 下载最新版本的 ZIP 文件
 3. 解压到 `~/.claude/skills/` 目录
-4. 确保文件夹名为 `ai-agent-team`
+   4. 确保文件夹名为 `human-first-agent-writing`
 
 </details>
 
@@ -135,7 +135,7 @@ ls ai-agent-team/SKILL.md  # 应该显示文件存在
 
 ```bash
 # Windows PowerShell
-Copy-Item -Path "ai-agent-team" -Destination "$env:USERPROFILE\.claude\skills\" -Recurse
+     Copy-Item -Path "human-first-agent-writing" -Destination "$env:USERPROFILE\.claude\skills\" -Recurse
 
 # Linux/Mac
 cp -r ai-agent-team ~/.claude/skills/
