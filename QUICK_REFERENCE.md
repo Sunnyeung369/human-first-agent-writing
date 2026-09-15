@@ -1,4 +1,6 @@
-# AI Agent Team - 快速参考
+# Human-First Agent Writing - 快速参考
+
+旧称 `human-first-agent-writing` 仍可作为兼容口令；新安装和文档使用 `human-first-agent-writing`。
 
 ## 🎯 三种使用方式
 
@@ -152,14 +154,14 @@ Chief → Researcher (15分钟) → Writer (30分钟) → Editor (15分钟) → 
 ### 完整内容生产
 ```
 /brainstorming (构思)
-→ /ai-agent-team (创作)
+→ /human-first-agent-writing (创作)
 → /docx (Word)
 → /pdf (导出)
 ```
 
 ### 研究项目
 ```
-/ai-agent-team (团队研究)
+/human-first-agent-writing (团队研究)
 → /obsidian-markdown (笔记)
 → /xlsx (数据表)
 → /pptx (演示)
@@ -167,7 +169,7 @@ Chief → Researcher (15分钟) → Writer (30分钟) → Editor (15分钟) → 
 
 ### 知识管理
 ```
-/ai-agent-team (整理)
+/human-first-agent-writing (整理)
 → /obsidian-bases (数据库)
 → /obsidian-canvas-creator (可视化)
 ```

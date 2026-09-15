@@ -18,3 +18,5 @@ Thumbs.db
 *.tmp
 *.temp
 *.log
+# Claude Code temporary working-directory markers
+tmpclaude-*-cwd

@@ -1,6 +1,8 @@
 # 贡献指南
 
-感谢你考虑为 AI Agent Team SKILL 做出贡献！我们欢迎各种形式的贡献。
+感谢你考虑为 Human-First Agent Writing 做出贡献！我们欢迎真实案例、失败记录、文案改进和可复现的修复。
+
+项目已从 `human-first-agent-writing` 改名；提交新文档时请使用 `human-first-agent-writing`。不要提交本机路径、凭据、虚构的用户反馈或未经验证的性能承诺。
 
 ## 📋 目录
 
@@ -41,7 +43,7 @@
 
 ### 报告 Bug
 
-1. 检查 [Issues](https://github.com/Sunnyeung369/ai-agent-team/issues) 确保问题未被报告
+1. 检查 [Issues](https://github.com/Sunnyeung369/human-first-agent-writing/issues) 确保问题未被报告
 2. 如果没有，创建新的 Issue
 3. 使用 Bug Report 模板填写信息
 4. 提供清晰的标题和详细描述
@@ -49,7 +51,7 @@
 
 ### 提出新功能
 
-1. 先在 [Discussions](https://github.com/Sunnyeung369/ai-agent-team/discussions) 讨论
+1. 先在 [Discussions](https://github.com/Sunnyeung369/human-first-agent-writing/discussions) 讨论
 2. 说明功能的使用场景和价值
 3. 考虑是否适合本项目
 4. 创建 Feature Request Issue
@@ -78,11 +80,11 @@
 
 ```bash
 # 1. Fork 并克隆仓库
-git clone https://github.com/YOUR_USERNAME/ai-agent-team.git
+git clone https://github.com/YOUR_USERNAME/human-first-agent-writing.git
 cd ai-agent-team
 
 # 2. 添加上游远程仓库
-git remote add upstream https://github.com/Sunnyeung369/ai-agent-team.git
+git remote add upstream https://github.com/Sunnyeung369/human-first-agent-writing.git
 
 # 3. 创建特性分支
 git checkout -b feature/your-feature-name
@@ -335,7 +337,7 @@ docs: update README
 ```bash
 # 1. 安装 SKILL
 cd ~/.claude/skills
-git clone https://github.com/YOUR_USERNAME/ai-agent-team.git
+git clone https://github.com/YOUR_USERNAME/human-first-agent-writing.git
 
 # 2. 测试基本功能
 claude
@@ -395,9 +397,9 @@ MAJOR.MINOR.PATCH
 
 ## 获得帮助
 
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/Sunnyeung369/ai-agent-team/discussions)
-- 🐛 **Bug 报告**: [Issues](https://github.com/Sunnyeung369/ai-agent-team/issues)
-- 💡 **功能建议**: [Feature Requests](https://github.com/Sunnyeung369/ai-agent-team/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Sunnyeung369/human-first-agent-writing/discussions)
+- 🐛 **Bug 报告**: [Issues](https://github.com/Sunnyeung369/human-first-agent-writing/issues)
+- 💡 **功能建议**: [Feature Requests](https://github.com/Sunnyeung369/human-first-agent-writing/issues)
 - 📧 **邮件**: Sunnyeung369@users.noreply.github.com
 
 ---
@@ -412,8 +414,8 @@ MAJOR.MINOR.PATCH
 
 感谢所有贡献者！
 
-<a href="https://github.com/Sunnyeung369/ai-agent-team/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sunnyeung369/ai-agent-team" />
+<a href="https://github.com/Sunnyeung369/human-first-agent-writing/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sunnyeung369/human-first-agent-writing" />
 </a>
 
 ---

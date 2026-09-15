@@ -129,7 +129,7 @@ cd ~/.claude/skills
 <details>
 <summary><b>方式 2: 手动下载</b></summary>
 
-1. 访问 [Releases](https://github.com/Sunnyeung369/ai-agent-team/releases) 页面
+1. 访问 [Releases](https://github.com/Sunnyeung369/human-first-agent-writing/releases) 页面
 2. 下载最新版本的 ZIP 文件
 3. 解压到 `~/.claude/skills/` 目录
    4. 确保文件夹名为 `human-first-agent-writing`
@@ -144,7 +144,7 @@ cd ~/.claude/skills
      Copy-Item -Path "human-first-agent-writing" -Destination "$env:USERPROFILE\.claude\skills\" -Recurse
 
 # Linux/Mac
-cp -r ai-agent-team ~/.claude/skills/
+     cp -r human-first-agent-writing ~/.claude/skills/
 ```
 
 </details>
@@ -300,7 +300,7 @@ graph LR
 ```bash
 /brainstorming          # 1. 头脑风暴，明确需求
   ↓
-/ai-agent-team          # 2. Agent 团队协作创作
+/human-first-agent-writing          # 2. Agent 团队协作创作
   ↓
 /docx                   # 3. 生成 Word 文档
   ↓
@@ -310,7 +310,7 @@ graph LR
 ### 研究分析管道
 
 ```bash
-/ai-agent-team          # 1. 团队研究分析
+/human-first-agent-writing          # 1. 团队研究分析
   ↓
 /obsidian-markdown      # 2. 格式化为 Obsidian 笔记
   ↓
@@ -324,7 +324,7 @@ graph LR
 ```bash
 /planning-with-files     # 1. 规划文档结构
   ↓
-/ai-agent-team          # 2. 团队协作写作
+/human-first-agent-writing          # 2. 团队协作写作
   ↓
 /frontend-design        # 3. 设计文档样式
   ↓
@@ -442,8 +442,8 @@ ai-agent-team/
 
 感谢所有贡献者！
 
-<a href="https://github.com/Sunnyeung369/ai-agent-team/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sunnyeung369/ai-agent-team" />
+<a href="https://github.com/Sunnyeung369/human-first-agent-writing/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sunnyeung369/human-first-agent-writing" />
 </a>
 
 ---
@@ -474,9 +474,9 @@ in the Software without restriction...
 ## 📮 联系方式
 
 - **作者**: [SUNNYEUNG](https://github.com/Sunnyeung369)
-- **项目主页**: [https://github.com/Sunnyeung369/ai-agent-team](https://github.com/Sunnyeung369/ai-agent-team)
-- **问题反馈**: [Issues](https://github.com/Sunnyeung369/ai-agent-team/issues)
-- **功能建议**: [Discussions](https://github.com/Sunnyeung369/ai-agent-team/discussions)
+- **项目主页**: [https://github.com/Sunnyeung369/human-first-agent-writing](https://github.com/Sunnyeung369/human-first-agent-writing)
+- **问题反馈**: [Issues](https://github.com/Sunnyeung369/human-first-agent-writing/issues)
+- **功能建议**: [Discussions](https://github.com/Sunnyeung369/human-first-agent-writing/discussions)
 
 ---
 

@@ -1,4 +1,6 @@
-# 🗺️ AI Agent Team SKILL - 发展路线图
+# 🗺️ Human-First Agent Writing - 发展路线图
+
+> 路线图是方向清单，不是发布日期承诺。当前优先收集真实使用反馈，再决定实现顺序。
 
 ## 📍 版本 1.0.0 (当前版本)
 
@@ -161,9 +163,9 @@
 
 我们重视社区反馈！帮助我们确定功能优先级：
 
-- 📊 [功能投票](https://github.com/Sunnyeung369/ai-agent-team/discussions/categories/ideas)
-- 💬 [讨论区](https://github.com/Sunnyeung369/ai-agent-team/discussions)
-- 🗳️ [投票调查](https://github.com/Sunnyeung369/ai-agent-team/polls)
+- 📊 [功能投票](https://github.com/Sunnyeung369/human-first-agent-writing/discussions/categories/ideas)
+- 💬 [讨论区](https://github.com/Sunnyeung369/human-first-agent-writing/discussions)
+- 🗳️ [投票调查](https://github.com/Sunnyeung369/human-first-agent-writing/polls)
 
 ---
 
@@ -183,7 +185,7 @@
 
 我们欢迎社区贡献！如果你想帮助实现某个功能：
 
-1. 查看 [Issues](https://github.com/Sunnyeung369/ai-agent-team/issues)
+1. 查看 [Issues](https://github.com/Sunnyeung369/human-first-agent-writing/issues)
 2. 选择你想实现的功能
 3. 创建分支并开始开发
 4. 提交 Pull Request
@@ -197,8 +199,8 @@
 
 你有想法或建议吗？
 
-- 💡 **功能建议**: [创建 Issue](https://github.com/Sunnyeung369/ai-agent-team/issues/new?template=feature_request.md)
-- 💬 **一般讨论**: [GitHub Discussions](https://github.com/Sunnyeung369/ai-agent-team/discussions)
+- 💡 **功能建议**: [创建 Issue](https://github.com/Sunnyeung369/human-first-agent-writing/issues/new?template=feature_request.md)
+- 💬 **一般讨论**: [GitHub Discussions](https://github.com/Sunnyeung369/human-first-agent-writing/discussions)
 - 📧 **邮件**: Sunnyeung369@users.noreply.github.com
 
 ---
@@ -207,13 +209,13 @@
 
 感谢所有贡献者的努力！
 
-<a href="https://github.com/Sunnyeung369/ai-agent-team/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sunnyeung369/ai-agent-team" />
+<a href="https://github.com/Sunnyeung369/human-first-agent-writing/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sunnyeung369/human-first-agent-writing" />
 </a>
 
 ---
 
-**让我们一起构建更好的 AI Agent Team！** 🚀
+**让我们一起构建更实用、更像人的 Agent 写作工具。** 🚀
 
 ---
 

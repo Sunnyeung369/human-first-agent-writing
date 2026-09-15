@@ -12,4 +12,4 @@ Open [the demo](examples/30-second-demo.md), copy the prompt, and give it to an 
 
 Chief coordinates; Researcher gathers context; Writer drafts; Editor removes template language; Fact-Checker verifies claims; Archivist connects prior material.
 
-The old `ai-agent-team` invocation remains accepted for compatibility. See the [Chinese README](README.md) for the full guide.
+The old `human-first-agent-writing` invocation remains accepted for compatibility. See the [Chinese README](README.md) for the full guide.

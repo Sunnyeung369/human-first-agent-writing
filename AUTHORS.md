@@ -10,8 +10,8 @@
 
 感谢所有为本项目做出贡献的人！
 
-<a href="https://github.com/Sunnyeung369/ai-agent-team/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sunnyeung369/ai-agent-team" />
+<a href="https://github.com/Sunnyeung369/human-first-agent-writing/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sunnyeung369/human-first-agent-writing" />
 </a>
 
 ## 特别感谢

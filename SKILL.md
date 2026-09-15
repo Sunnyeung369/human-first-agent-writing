@@ -1,13 +1,13 @@
 ---
 name: ai-agent-team-human-voice
-version: "1.0.0"
+version: "1.1.0"
 description: "AI Agent Team · Human Voice：可审计的多角色工作流，用研究、写作、编辑和事实核查协作完成内容。默认优先自然、具体、有作者判断的表达，主动减少模板化和 AI 机器味。支持 chief、researcher、writer、editor、fact-checker、archivist 六类角色；并行只表示任务可拆分，实际是否并发由宿主能力决定。"
 user-invocable: true
 ---
 
 # Human-First Agent Writing SKILL
 
-旧称 `ai-agent-team` 仍可作为用户口令；新安装和文档统一使用 `human-first-agent-writing`。
+旧称 `ai-agent-team` 仍可作为用户口令；新安装和文档统一使用 `human-first-agent-writing`。本版本加入 Human Voice 协议、可复制演示和反馈记录规范。
 
 ## 概述
 

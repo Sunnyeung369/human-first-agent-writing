@@ -15,6 +15,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2026-01-15
 
+> 2026-09 maintenance note: repository renamed to `human-first-agent-writing`; see the latest commits for current documentation and Human Voice examples.
+
 ### Added
 - 🎭 **6 Core Agents**: Chief, Researcher, Writer, Editor, Fact-Checker, Archivist
 - 🔄 **3 Usage Modes**: Chief coordination, direct Agent invocation, task categorization
@@ -70,9 +72,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Links
 
-- [GitHub Releases](https://github.com/Sunnyeung369/ai-agent-team/releases)
-- [GitHub Tags](https://github.com/Sunnyeung369/ai-agent-team/tags)
-- [Milestones](https://github.com/Sunnyeung369/ai-agent-team/milestones)
+- [GitHub Releases](https://github.com/Sunnyeung369/human-first-agent-writing/releases)
+- [GitHub Tags](https://github.com/Sunnyeung369/human-first-agent-writing/tags)
+- [Milestones](https://github.com/Sunnyeung369/human-first-agent-writing/milestones)
 
 ---
 

@@ -287,7 +287,7 @@ claude
 
 ```bash
 /brainstorming          # 1. 构思
-> /ai-agent-team        # 2. 团队创作
+> /human-first-agent-writing        # 2. 团队创作
 > /docx                 # 3. Word 文档
 > /pdf                  # 4. PDF 导出
 ```
@@ -297,7 +297,7 @@ claude
 ### 组合 2: 研究到演示
 
 ```bash
-/ai-agent-team          # 1. 团队研究
+/human-first-agent-writing          # 1. 团队研究
 > /xlsx                 # 2. 数据表格
 > /pptx                 # 3. 演示文稿
 > /theme-factory        # 4. 应用主题
@@ -308,7 +308,7 @@ claude
 ### 组合 3: Obsidian 知识管理
 
 ```bash
-/ai-agent-team          # 1. 内容创作
+/human-first-agent-writing          # 1. 内容创作
 > /obsidian-markdown    # 2. 格式化
 > /obsidian-bases       # 3. 数据库
 > /obsidian-canvas-creator  # 4. 可视化
@@ -411,7 +411,7 @@ claude
 
 ---
 
-**需要帮助？** 查看 [Issues](https://github.com/Sunnyeung369/ai-agent-team/issues) 或 [Discussions](https://github.com/Sunnyeung369/ai-agent-team/discussions)
+**需要帮助？** 查看 [Issues](https://github.com/Sunnyeung369/human-first-agent-writing/issues) 或 [Discussions](https://github.com/Sunnyeung369/human-first-agent-writing/discussions)
 
 ---
 
