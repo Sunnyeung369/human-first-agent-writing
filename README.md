@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 AI Agent Team SKILL
+# 🤖 AI Agent Team · Human Voice
 
 [![GitHub release](https://img.shields.io/github/release/Sunnyeung369/ai-agent-team?style=flat-square)](https://github.com/Sunnyeung369/ai-agent-team/releases)
 [![License](https://img.shields.io/github/license/Sunnyeung369/ai-agent-team?style=flat-square)](LICENSE)
@@ -8,9 +8,9 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Sunnyeung369/ai-agent-team?style=flat-square)](https://github.com/Sunnyeung369/ai-agent-team/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/Sunnyeung369/ai-agent-team?style=flat-square)](https://github.com/Sunnyeung369/ai-agent-team/issues)
 
-**🎯 AI Agent 协作团队系统 - 让 Claude Code 拥有专业编辑团队的能力**
+**🎯 可审计的多角色工作流，让内容更像认真做过功课的人写出来的**
 
-基于 [newtype-profile](https://github.com/newtype-01/newtype-profile) 架构，通过 6 个专业 AI Agent 协作，大幅提升内容创作和研究分析质量
+借鉴 [newtype-profile](https://github.com/newtype-01/newtype-profile) 的角色分工，通过研究、写作、编辑和核查协作完成复杂任务。它不承诺自动变好，而是把每一步的责任和证据写清楚。
 
 [功能介绍](#-核心功能) • [快速开始](#-快速开始) • [使用示例](#-使用示例) • [文档](#-文档) • [贡献](#-贡献)
 
@@ -20,7 +20,7 @@
 
 ---
 
-## ✨ 为什么选择 AI Agent Team？
+## ✨ 这个 Skill 解决什么问题？
 
 🤔 **单 AI 的局限性**：
 - 信息收集不够全面
@@ -28,11 +28,13 @@
 - 缺乏专业验证
 - 知识检索能力弱
 
-✅ **AI Agent Team 的优势**：
+✅ **它提供的约束**：
 - **6 个专业 Agent** 各司其职
 - **结构化工作流程** 保证质量
 - **多重验证机制** 确保准确
 - **灵活协作模式** 适应各种场景
+
+写作默认遵循 Human Voice 协议：具体、克制、允许不确定性，删掉套话和无证据的“专业腔”。
 
 <div align="center">
 
@@ -356,10 +358,6 @@ ai-agent-team/
 │   ├── ISSUE_TEMPLATE/     # Issue 模板
 │   ├── PULL_REQUEST_TEMPLATE.md  # PR 模板
 │   └── dependabot.yml      # 依赖更新
-├── docs/                   # 详细文档
-│   ├── ARCHITECTURE.md     # 架构说明
-│   ├── API.md              # API 文档
-│   └── EXAMPLES.md         # 更多示例
 ├── examples/               # 使用示例
 │   ├── simple_usage.md
 │   └── advanced_workflows.md
