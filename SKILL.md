@@ -5,7 +5,9 @@ description: "AI Agent Team · Human Voice：可审计的多角色工作流，�
 user-invocable: true
 ---
 
-# AI Agent Team SKILL
+# Human-First Agent Writing SKILL
+
+旧称 `ai-agent-team` 仍可作为用户口令；新安装和文档统一使用 `human-first-agent-writing`。
 
 ## 概述
 

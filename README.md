@@ -1,14 +1,13 @@
 <div align="center">
 
-# 🤖 AI Agent Team · Human Voice
+# 🤖 Human-First Agent Writing
 
-[![GitHub release](https://img.shields.io/github/release/Sunnyeung369/ai-agent-team?style=flat-square)](https://github.com/Sunnyeung369/ai-agent-team/releases)
-[![License](https://img.shields.io/github/license/Sunnyeung369/ai-agent-team?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/github/license/Sunnyeung369/human-first-agent-writing?style=flat-square)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-Compatible-purple?style=flat-square&logo=anthropic)](https://claude.com/claude-code)
-[![GitHub Stars](https://img.shields.io/github/stars/Sunnyeung369/ai-agent-team?style=flat-square)](https://github.com/Sunnyeung369/ai-agent-team/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/Sunnyeung369/ai-agent-team?style=flat-square)](https://github.com/Sunnyeung369/ai-agent-team/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/Sunnyeung369/human-first-agent-writing?style=flat-square)](https://github.com/Sunnyeung369/human-first-agent-writing/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/Sunnyeung369/human-first-agent-writing?style=flat-square)](https://github.com/Sunnyeung369/human-first-agent-writing/issues)
 
-**🎯 可审计的多角色工作流，让内容更像认真做过功课的人写出来的**
+**🎯 A practical multi-agent writing workflow for research, drafting, editing, and fact-checking.**
 
 借鉴 [newtype-profile](https://github.com/newtype-01/newtype-profile) 的角色分工，通过研究、写作、编辑和核查协作完成复杂任务。它不承诺自动变好，而是把每一步的责任和证据写清楚。
 
@@ -38,7 +37,7 @@
 
 <div align="center">
 
-**从单兵作战到团队协作，质的飞跃！**
+**先把事情想清楚，再把话写得像人。**
 
 </div>
 
@@ -92,6 +91,16 @@
 ---
 
 ## 🚀 快速开始
+
+### 30 秒试用
+
+把本仓库复制到 Agent 的 Skill 目录，然后直接提出一个具体任务：
+
+```text
+请写一篇面向小团队创始人的竞品分析。先列出需要核实的事实，再给出一版有明确取舍的初稿；不要使用空泛的行业黑话。
+```
+
+复杂任务使用 `Chief`，单一步骤直接调用对应角色。这个项目是工作流提示，不会凭空提供搜索、浏览器或并发能力；可用能力取决于你的 Agent 宿主。
 
 ### 📥 安装
 
