@@ -45,6 +45,12 @@
 
 ## 📊 核心功能
 
+### 👀 先看结果
+
+- [30 秒演示](examples/30-second-demo.md)：复制一条提示词，观察完整工作流。
+- [前后对比示例](examples/before-after/human-voice-example.md)：看它如何删除 AI 腔，同时保留判断和边界。
+- [反馈模板](FEEDBACK.md)：提交真实使用场景，不用夸张评分。
+
 ### 🎭 6 大专业 Agent
 
 | Agent | 角色 | 🎯 核心能力 | ⚡ 使用场景 |
