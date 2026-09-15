@@ -430,14 +430,14 @@ Chief: 我将协调知识管理团队：
 
 1. **+ planning-with-files**
    - 先用 planning-with-files 制定项目计划
-   - 再用 ai-agent-team 执行具体任务
+   - 再用 旧版口令 `ai-agent-team` 执行具体任务
 
 2. **+ content-research-writer**
    - 使用 content-research-writer 的研究能力
-   - 配合 ai-agent-team 的协作模式
+   - 配合旧版口令 `ai-agent-team` 的协作模式
 
 3. **+ obsidian-markdown**
-   - 用 ai-agent-team 创作内容
+   - 用旧版口令 `ai-agent-team` 创作内容
    - 用 obsidian-markdown 格式化输出
 
 4. **+ pdf/xlsx/docx**
@@ -482,12 +482,12 @@ Chief: 我将协调知识管理团队：
 ## 限制和注意事项
 
 1. **模型限制**
-   - 所有 Agent 共用同一个底层模型（Claude Sonnet 4.5）
+   - 各 Agent 使用的模型由宿主环境决定，能力和结果可能不同
    - 不支持 newtype-profile 的多模型切换（需要手动模拟）
 
 2. **并发限制**
    - 实际上是串行调用各 Agent 的能力
-   - 不是真正的并行执行（但逻辑上可以并行）
+   - 是否真正并发执行取决于宿主；本 Skill 只描述可拆分的任务关系
 
 3. **上下文共享**
    - Agent 之间需要通过文本传递信息
@@ -524,6 +524,6 @@ AI Agent Team SKILL 提供了一个简化版的 newtype-profile 架构：
 
 ---
 
-**版本**: 1.0.0
-**最后更新**: 2026-01-15
+**版本**: 1.1.0
+**最后更新**: 2026-09-15
 **维护者**: SUNNYEUNG

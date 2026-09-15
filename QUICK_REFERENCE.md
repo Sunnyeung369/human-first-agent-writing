@@ -1,6 +1,6 @@
 # Human-First Agent Writing - 快速参考
 
-旧称 `human-first-agent-writing` 仍可作为兼容口令；新安装和文档使用 `human-first-agent-writing`。
+旧称 `ai-agent-team` 仍可作为兼容口令；新安装和文档使用 `human-first-agent-writing`。
 
 ## 🎯 三种使用方式
 
@@ -92,9 +92,9 @@ Chief → Researcher (15分钟) → Writer (30分钟) → Editor (15分钟) → 
 
 ## 🚀 高级功能
 
-### 并行处理
+### 可拆分任务
 ```
-[Chief] 并行执行：
+[Chief] 标记可拆分任务：
       - Researcher 研究市场
       - Archivist 分析历史数据
       - Fact-Checker 验证来源
@@ -214,7 +214,7 @@ Chief → Researcher (15分钟) → Writer (30分钟) → Editor (15分钟) → 
 **解决**：
 1. 使用快速模式
 2. 减少不必要的 Agent
-3. 并行处理独立任务
+3. 标记可拆分的独立任务（是否并发由宿主决定）
 
 ### 问题：质量不够高
 **解决**：

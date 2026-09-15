@@ -2,7 +2,7 @@
 
 感谢你考虑为 Human-First Agent Writing 做出贡献！我们欢迎真实案例、失败记录、文案改进和可复现的修复。
 
-项目已从 `human-first-agent-writing` 改名；提交新文档时请使用 `human-first-agent-writing`。不要提交本机路径、凭据、虚构的用户反馈或未经验证的性能承诺。
+项目已从 `ai-agent-team` 改名；提交新文档和示例时请使用 `human-first-agent-writing`。不要提交本机路径、凭据、虚构的用户反馈或未经验证的性能承诺。
 
 ## 📋 目录
 
@@ -98,7 +98,7 @@ git checkout -b feature/your-feature-name
 - `fix/` - Bug 修复
   - `fix/typo-in-readme`
   - `fix/agent-coordination-issue`
-- `docs/` - 文档更新
+- `docs` - 文档、示例和教程更新
   - `docs/update-installation-guide`
   - `docs/add-examples`
 - `refactor/` - 代码重构
@@ -156,7 +156,7 @@ git checkout -b feature/your-feature-name
 ```yaml
 ---
 name: skill-name
-version: "1.0.0"
+version: "1.1.0"
 description: "清晰简洁的描述"
 user-invocable: true
 ---
@@ -294,7 +294,7 @@ docs: update README
 2. **环境信息**
    - OS: Windows / macOS / Linux
    - Claude Code 版本
-   - ai-agent-team 版本
+   - human-first-agent-writing 版本
 
 3. **复现步骤**
    ```
@@ -371,7 +371,7 @@ CI 会自动运行：
 ```
 MAJOR.MINOR.PATCH
 
-1.0.0  -> Major version (不兼容的 API 更改)
+1.0.0  -> 首个稳定版本 (不兼容的 API 更改)
 1.1.0  -> Minor version (向后兼容的功能新增)
 1.1.1  -> Patch version (向后兼容的问题修复)
 ```
@@ -384,8 +384,8 @@ MAJOR.MINOR.PATCH
 
 2. **创建 Release**
    ```bash
-   git tag -a v1.0.0 -m "Release v1.0.0"
-   git push origin v1.0.0
+   git tag -a v1.1.0 -m "Release v1.1.0"
+   git push origin v1.1.0
    ```
 
 3. **GitHub Release**
